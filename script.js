@@ -36,7 +36,4 @@ function prev(){
     
     return;
 
-
-    
-    
-
+}
